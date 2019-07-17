@@ -16,3 +16,6 @@ alias i='istats'
 # Open slack
 alias slk="open -a 'slack'"
 
+# Open chrome
+alias crm="open -a 'Google Chrome'"
+
