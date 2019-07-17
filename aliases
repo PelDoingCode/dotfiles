@@ -19,3 +19,11 @@ alias slk="open -a 'slack'"
 # Open chrome
 alias crm="open -a 'Google Chrome'"
 
+# Open Spotify
+alias sy="open -a 'Spotify'"
+
+# Open Brave
+alias bb="open -a 'Brave Browser'"
+
+
+
