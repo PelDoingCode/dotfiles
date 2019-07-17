@@ -1,5 +1,5 @@
 This repository is used by [Le Wagon](https://www.lewagon.com) students during our 9-week [coding bootcamp](https://www.lewagon.com).
-
+I've add some alias, feel free to look at it, you will save time ! 
 ## Toolset
 
 - [oh-my-zsh](http://ohmyz.sh/)
