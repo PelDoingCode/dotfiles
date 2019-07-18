@@ -6,12 +6,17 @@ alias speedtest="wget -O /dev/null http://speedtest.wdc01.softlayer.com/download
 # Quickly serve the current directory as HTTP
 alias serve='ruby -run -e httpd . -p 8000'  # Or python -m SimpleHTTPServer :)
 
+
 # Custom aliases
 alias gs='git status'
 alias ga='git add'
-alias gc='git commit'
+alias gc='git commit -m'
 alias gp='git push origin master'
 alias i='istats'
+alias rk='rake'
+alias ry='ruby'
+alias cr='clear'
+
 
 # Open slack
 alias slk="open -a 'slack'"
@@ -24,6 +29,9 @@ alias sy="open -a 'Spotify'"
 
 # Open Brave
 alias bb="open -a 'Brave Browser'"
+
+
+
 
 
 
