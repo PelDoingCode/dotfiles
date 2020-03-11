@@ -17,3 +17,8 @@ I've add some alias, feel free to look at it, you will save time !
 - material setup : https://www.youtube.com/watch?v=-jKOVqNyER0
 - techlead material setup : https://www.youtube.com/watch?v=KuBI9lq80DM
 - material setup : https://www.youtube.com/watch?v=4f7iiu5ck8U
+
+## Idea of repo : 
+- https://github.com/actions/starter-workflows
+- https://github.com/cowboy/dotfiles
+- https://github.com/changs/slimzsh
